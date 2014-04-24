@@ -108,3 +108,6 @@ D:\Documents\GitHub\trackitnow20414\trackitnow20414\bin\Microsoft.Owin.Security.
 D:\Documents\GitHub\trackitnow20414\trackitnow20414\obj\Debug\trackitnow20414.csprojResolveAssemblyReference.cache
 D:\Documents\GitHub\trackitnow20414\trackitnow20414\obj\Debug\trackitnow20414.dll
 D:\Documents\GitHub\trackitnow20414\trackitnow20414\obj\Debug\trackitnow20414.pdb
+D:\Documents\GitHub\trackitnow20414\trackitnow20414\obj\Debug\trackitnow20414.Migrations.InitialCreate.resources
+D:\Documents\GitHub\trackitnow20414\trackitnow20414\obj\Debug\trackitnow20414.csproj.GenerateResource.Cache
+D:\Documents\GitHub\trackitnow20414\trackitnow20414\obj\Debug\trackitnow20414.Migrations.test.resources

@@ -1,4 +1,9 @@
 ﻿using Microsoft.AspNet.Identity.EntityFramework;
+using System;
+using System.Collections.Generic;
+using System.Data.Entity;
+
+
 
 namespace trackitnow20414.Models
 {
@@ -13,5 +18,7 @@ namespace trackitnow20414.Models
             : base("DefaultConnection")
         {
         }
+        public DbSet<CoordenadasModels> Coordenadas { get; set; }//Las coordenadas
+        
     }
 }
