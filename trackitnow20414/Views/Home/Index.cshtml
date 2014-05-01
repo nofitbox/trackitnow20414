@@ -3,11 +3,11 @@
 }
 
 <!--  <center><h1>TrackItNow™</h1></center>  -->
-<!--  <center><h4>llevando el control a tus manos</h4></center>  -->
+<center><h4>llevando el control a tus manos</h4></center>
 
 <!--Inicio codigo map2-->
 @{
-    ViewBag.Title = "llevando el control a tus manos";
+    ViewBag.Title = "Llevamos el control a tus manos";
 }
 
 <!--Google Map API V3 with MVC4 Razor-->
@@ -26,8 +26,8 @@
 
         var mapOptions = {
             center: new google.maps.LatLng(latitud, longitud),
-            zoom: 14,
-            mapTypeId: google.maps.MapTypeId.ROADMAP
+            zoom: 20,
+            mapTypeId: google.maps.MapTypeId.SATELLITE
         };
         google.maps.visualRefresh = true;
         var map = new google.maps.Map(document.getElementById("map_canvas"),
